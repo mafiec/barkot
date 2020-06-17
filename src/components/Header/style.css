@@ -1,0 +1,16 @@
+.ImageBox {
+    display: flex;
+    width: 100%;
+    background: white;
+  }
+  
+  .Logo {
+    margin: 1%;
+    width: 15%;
+    height: 15%;
+    align-self: center;
+  }
+  
+  .HeaderImg {
+    width: 83%;
+  }
