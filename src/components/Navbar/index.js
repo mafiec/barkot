@@ -1,15 +1,16 @@
 import React from 'react';
-import './style.css'
+import './style.css';
+import { NavLink } from 'react-router-dom';
 
 const Navbar = (props) => {
     return(
         <header className='header'>
             <nav className='headerMenu'>
-                <a href='#'>Start</a>
-                <a href='#'>O Fundacji</a>
-                <a href='#'>Wsparcie</a>
-                <a href='#'>Historie dzieci</a>
-                <a href='#'>Kontakt</a>
+                <NavLink to='/'>Start</NavLink>
+                <NavLink to='/about-fondation'>O Fundacji</NavLink>
+                <NavLink to='/support'>Wsparcie</NavLink>
+                <NavLink to='/childrens-stories'>Historie dzieci</NavLink>
+                <NavLink to='/contact'>Kontakt</NavLink>
             </nav>
             <div className='headerMenu'>
                 <a href='#'>/fb, insta, yt icons/</a>
