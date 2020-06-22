@@ -1,6 +1,9 @@
 .card {
     background: #fff;
     margin: 20px 100px;
-    padding: 30px 40px 300px;
+    padding: 30px 40px;
     box-shadow: 0 0 8px #866f5a;
+    min-height: 400px;
+    font-size: 20px;
+    
 }

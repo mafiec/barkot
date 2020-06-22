@@ -1,5 +1,33 @@
-footer {
+.footer {
     background: #3d2510;
     color: #fff;
-    padding: 10px 20px
+    padding: 10px 50px;
+    font-size: 18px;
+    letter-spacing: 1.2px;
+}
+
+.contact {
+    font-size: 24px;
+}
+
+.socialIcons {
+    display: inline-block;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin: 0;
+}
+
+.socialIcons img {
+    height: 36px;
+    margin-right: 30px;
+    margin-left: 0;
+}
+
+.socialIcons img:hover {
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+.socialIcons a {
+    cursor: default;
 }
