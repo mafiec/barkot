@@ -1,4 +1,5 @@
+/* Background pattern from Toptal Subtle Patterns */
 body {
-  background: #fce8bd;
-  font-family: 'Oswald', sans-serif;
+  background-image: url('../src/assets/patterns/cork-board.png');
+  font-family: 'Roboto', sans-serif;
 }

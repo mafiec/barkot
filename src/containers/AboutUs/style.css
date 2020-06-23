@@ -1,0 +1,9 @@
+.firstPart {
+    display: flex;
+    text-align:justify
+}
+
+.photo {
+    height: 225px;
+    margin: auto 15px auto 0;
+}
