@@ -4,9 +4,9 @@ import './style.css'
 const AboutUs = (props) => {
     return(
         <div>
-            <div className='firstPart'>
-                <img className='photo' src={require('../../assets/photos/o-nas-1-300x225.jpg')} alt='Magda z dziećmi' />
-                <p>Fundacja jest młodą organizacją założoną w 2018 roku.
+            <h1>O NAS</h1>
+            <div className='container'>
+                <p className='leftSideText'>Fundacja jest młodą organizacją założoną w 2018 roku.
                     ​Założycielka Magdalena Soboka służyła na misji w Etiopii
                     jako Świecka Misjonarka Kombonianka.
                     Pracowała głównie w szkole, ale swój czas zawsze rozdzielała na
@@ -21,17 +21,17 @@ const AboutUs = (props) => {
                     dzieci ulicy, a fundacja ma jej w tym pomóc. Obecnie do Fundacji
                     należą 3 osoby, którym los dzieci ulicy nie jest obojętny.
                     Razem starają się planować i urzeczywistnić projekt ośrodka
-                    resocjalizacyjnego dla dzieci ulicy.<br/>
+                    resocjalizacyjnego dla dzieci ulicy.
                 </p>
+                <img id='aboutUs1' src={require('../../assets/photos/oNas1.jpg')} alt='Magda z dziećmi' />
             </div>
             <div>
-                <p>Do Fundacji należą:<br/>
-                    Magdalena Soboka – Fundator i Prezes Fundacji<br/>
+                <h2 id='crew'>Do Fundacji należą:</h2>
+                <p id='crew2'>Magdalena Soboka – Fundator i Prezes Fundacji<br/>
                     Danuta Szydłowska<br/>
                     Jerzy Fiec
                 </p>
             </div>
-            
         </div>
     );
 }

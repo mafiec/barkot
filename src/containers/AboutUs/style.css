@@ -1,9 +1,11 @@
-.firstPart {
-    display: flex;
-    text-align:justify
+#aboutUs1 {
+    height: 225px;
 }
 
-.photo {
-    height: 225px;
-    margin: auto 15px auto 0;
+#crew {
+    margin-bottom: 7px;
+}
+
+#crew2 {
+    margin: 0;
 }

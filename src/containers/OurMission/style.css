@@ -1,3 +1,8 @@
-.justify {
-    text-align:justify;
+#ourMission1 {
+    padding-top: 20px;
+    font-size: 22px;
+    display: flex;
+    margin-bottom: 60px;
+    font-weight: 600;
+    font-style: italic;
 }

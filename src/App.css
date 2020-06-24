@@ -3,3 +3,39 @@ body {
   background-image: url('../src/assets/patterns/cork-board.png');
   font-family: 'Roboto', sans-serif;
 }
+
+.justify {
+  text-align:justify;
+}
+
+.link a {
+  color: #9e0000;
+}
+
+h1 {
+  font-size: 30px;
+  color: #9e0000;
+  font-family: Oswald;
+  letter-spacing: 4px;
+  padding-bottom: 20px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+.leftSideText {
+  text-align:justify;
+  margin: auto 60px auto 0;
+}
+
+.rightSideText {
+  text-align:justify;
+  margin: auto 0 auto 60px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}

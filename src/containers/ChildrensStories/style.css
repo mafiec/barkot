@@ -1,0 +1,11 @@
+.photoContainer {
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.separator {
+    background-color:#9e0000;
+    height: 2px;
+    border-width: 0;
+}
