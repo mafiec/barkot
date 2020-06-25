@@ -1,24 +1,42 @@
-.footer {
+footer {
     background: #2e1204;
     color: #fff;
-    padding: 1px 50px;
+    padding: 1px 30px;
     font-size: 18px;
     letter-spacing: 1.2px;
 }
 
-.contact {
-    font-size: 24px;
+#footerTitle {
+    text-align: center;
+    font-size: 26px;
     font-family: Oswald;
-    letter-spacing: 3px;
+    font-weight: 500;
+    letter-spacing: 9px;
+    margin: 0;
+    padding-top: 15px;
+}
+
+#footer {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#footerContact {
+    margin-right: 5px;
+}
+
+#tel {
+    padding-top: 8px;
 }
 
 .socialIcons {
     display: inline-block;
+    margin-left: 5px;
 }
 
 .socialIcons img {
     height: 36px;
-    margin: 5px 30px 20px 0;
+    margin: 0 30px 20px 0;
 }
 
 .socialIcons img:hover {
