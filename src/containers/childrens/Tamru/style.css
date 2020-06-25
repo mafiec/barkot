@@ -1,7 +1,10 @@
-.tamru1 {
+#tamruText {
     display: inline-block;
 }
 
-.tamru2 {
-    margin: 0;
+#tamruPhotos {
+    text-align: center;
+    margin: 40px 0;
+    display: flex;
+    justify-content: space-evenly;
 }
