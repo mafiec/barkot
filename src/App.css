@@ -77,3 +77,15 @@ h2 {
   max-width: 100%;
   height: auto;
 }
+
+.inlineBlock {
+  display: inline-block;
+}
+
+.childrenPhotos {
+  text-align: center;
+  margin: 40px 0;
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 16px;
+}
