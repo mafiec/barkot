@@ -12,6 +12,11 @@ body {
   color: #9e0000;
 }
 
+.mail {
+  color:#9e0000;
+  font-weight: 600;
+}
+
 h1 {
   font-size: 30px;
   color: #9e0000;
@@ -24,18 +29,51 @@ h2 {
   font-size: 20px;
 }
 
-.leftSideText {
-  text-align:justify;
-  margin: auto 60px auto 0;
-}
-
-.rightSideText {
-  text-align:justify;
-  margin: auto 0 auto 60px;
-}
-
 .container {
   display: flex;
   justify-content: space-between;
   margin-bottom: 40px;
+}
+
+.leftSideText {
+  text-align:justify;
+  margin: auto 30px auto 0;
+}
+
+.rightSideText {
+  text-align:justify;
+  margin: auto 0 auto 30px;
+}
+
+.leftSidePhoto {
+  float: left;
+  margin-right: 10px;
+  max-width: 100%;
+  height: auto;
+}
+
+.rightSidePhoto {
+  float: right;
+  margin-left: 10px;
+  max-width: 100%;
+  height: auto;
+}
+
+.withoutMargin {
+  margin: 0;
+}
+
+.withoutMarginTop {
+  margin-top: 0;
+}
+
+.margin10px {
+  margin: 10px;
+}
+
+.responsiveImage {
+  margin-top: auto;
+  margin-bottom: auto;
+  max-width: 100%;
+  height: auto;
 }

@@ -9,14 +9,14 @@ const ChildrensStories = (props) => {
     const showPhoto = (name) => {
         return (
             <div className='imgWrap'>
-                <img src={require(`../../assets/photos/${name.toLowerCase()}.jpg`)} alt={name} />
+                <img className='responsiveImage' src={require(`../../assets/photos/${name.toLowerCase()}.jpg`)} alt={name} />
                 <NavLink to={'/childrens-stories/' + name.toLowerCase()}><p className='imgDescription'>{name}</p></NavLink>
             </div>
         );
     }
 
     return(
-        <div>
+        <div className='justify'>
             <h1>HISTORIE DZIECI</h1>
             <p className='link'>Zapraszamy do poznania historii życia chłopców, którzy przebywają obecnie w naszym ośrodku.
             Rozpoczęliśmy również program adopcji na odległość. Więcej szczegółów znajdziesz <NavLink to='/adoption'>tutaj</NavLink>.</p>

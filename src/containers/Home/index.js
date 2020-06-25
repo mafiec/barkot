@@ -3,7 +3,7 @@ import './style.css'
 
 const Home = (props) => {
     return(
-        <div>
+        <div className='justify'>
             <h1>FUNDACJA DZIECI ETIOPII BARKOT</h1>
             <h2>Nasz cel</h2>
             <p>Naszym głównym celem jest kompleksowa pomoc dzieciom ulicy w prowadzonym przez nas ośrodku w miejscowości Awassa. Dowiedz się więcej na temat naszej misji oraz zadań, które chcemy realizować w ramach projektu.</p>
@@ -16,7 +16,6 @@ const Home = (props) => {
                 Zapraszamy również na naszego fanpage’a na Facebooku, gdzie możesz śledzić najbardziej bieżące działania fundacji.<br/>
                 <a target='_blank' href='https://www.facebook.com/dzieci.etiopii/'>fb.com/dzieci-etiopii</a>
             </p>
-
         </div>
     );
 }

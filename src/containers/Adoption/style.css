@@ -4,7 +4,6 @@
 
 #adoption2 {
     text-align: center;
-    padding-bottom: 10px;
 }
 
 #adoption3 {
@@ -14,10 +13,6 @@
 #adoption4 {
     margin: 0;
     padding-bottom: 10px;
-}
-
-#adoption5 {
-    margin: 0;
 }
 
 #adoptionTableContainer {
@@ -33,9 +28,4 @@ table, th, td {
 table {
     border-collapse: collapse;
     background: #fcfcf2;
-}
-
-#adoptionMail {
-    color:#9e0000;
-    font-weight: 600;
 }
