@@ -1,13 +1,14 @@
 import React from 'react';
-import './style.css';
 import SupportThisChild from '../SupportThisChild';
 
 const Erdachew = (props) => {
     return(
-        <div>
-            <h1>HISTORIA ERDACHEWA</h1>
-            <img src={require(`../../../assets/photos/erdachew0.jpg`)} alt='Erdachew' />
-            <p>Historia chłopca pojawi się wkrótce.</p> 
+        <div className='justify'>
+            <h1>ERDACHEW</h1>
+            <div className='childStoryContainer'>
+                <img src={require(`../../../assets/photos/erdachew0.jpg`)} alt='Erdachew' />
+                <div className='childStory'>Historia chłopca pojawi się wkrótce.</div> 
+            </div>
             <SupportThisChild name1='Erdachew' name2='Erdachewa' />  
         </div>
     );

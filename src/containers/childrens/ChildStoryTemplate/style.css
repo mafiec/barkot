@@ -1,0 +1,15 @@
+.childrenPhotos {
+  text-align: center;
+  margin: 40px 0;
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 16px;
+}
+
+.childStoryContainer {
+  display: flex;
+}
+
+.childStory {
+  padding-left: 20px;
+}

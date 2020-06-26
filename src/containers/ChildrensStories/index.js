@@ -20,7 +20,7 @@ const ChildrensStories = (props) => {
             <h1>HISTORIE DZIECI</h1>
             <p className='link'>Zapraszamy do poznania historii życia chłopców, którzy przebywają obecnie w naszym ośrodku.
             Rozpoczęliśmy również program adopcji na odległość. Więcej szczegółów znajdziesz <NavLink to='/adoption'>tutaj</NavLink>.</p>
-            <p>Kliknij na wybrane zdjęcie.</p>
+            <p>Kliknij na zdjęcie, by poznać historię konkretnego chłopca.</p>
             <div className='photoContainer'>
                 {names1.map((name) => showPhoto(name))}
             </div>
