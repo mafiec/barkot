@@ -47,14 +47,14 @@ h2 {
 
 .leftSidePhoto {
   float: left;
-  margin-right: 10px;
+  margin-right: 20px;
   max-width: 100%;
   height: auto;
 }
 
 .rightSidePhoto {
   float: right;
-  margin-left: 10px;
+  margin-left: 20px;
   max-width: 100%;
   height: auto;
 }

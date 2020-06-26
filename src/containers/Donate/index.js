@@ -6,7 +6,7 @@ const Donate = (props) => {
         <div>
             <h1>PRZEKAŻ DATEK</h1>
             <div id='donate1'>
-                <img className='responsiveImage' src={require('../../assets/photos/przekazDatek1.jpg')} alt='Chłopiec z zeszytem' />
+                <img id='donateImage' src={require('../../assets/photos/przekazDatek1.jpg')} alt='Chłopiec z zeszytem' />
                 <div className='rightSideText'>
                     <p className='withoutMargin'><b>Aby wesprzeć działania fundacji możesz wykonać przelew na konto mBank:</b></p>
                     <p className='withoutMargin'>Fundacja Dzieci Etiopii Barkot<br/>ul. Brodzińskiego 4<br/>41-800 Zabrze<br/><b>57 1140 2004 0000 3302 7838 7250</b></p>
