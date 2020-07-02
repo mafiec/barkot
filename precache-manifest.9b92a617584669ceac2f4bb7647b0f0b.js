@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "13ef478da60dc3026ac3879171a629aa",
+    "revision": "22270fd8054345b759294e8ca3726afc",
     "url": "/barkot/index.html"
   },
   {
-    "revision": "5444949087142fd9fe9d",
-    "url": "/barkot/static/css/main.1943afd9.chunk.css"
+    "revision": "48c95685ff8c0bebb8fa",
+    "url": "/barkot/static/css/main.ae738450.chunk.css"
   },
   {
     "revision": "3955471b4f7b71710092",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/barkot/static/js/2.5209d4a7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5444949087142fd9fe9d",
-    "url": "/barkot/static/js/main.ce8a26dd.chunk.js"
+    "revision": "48c95685ff8c0bebb8fa",
+    "url": "/barkot/static/js/main.298ec9b1.chunk.js"
   },
   {
     "revision": "02f604e126dbd53e9119",
