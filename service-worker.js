@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/barkot/precache-manifest.9b92a617584669ceac2f4bb7647b0f0b.js"
+  "/barkot/precache-manifest.3cc335bfa73bb8d1ada3e69e82f111eb.js"
 );
 
 self.addEventListener('message', (event) => {
