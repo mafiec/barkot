@@ -1,7 +1,17 @@
 /* Background pattern from Toptal Subtle Patterns */
+html {
+  position: relative;
+  min-height: 100vh;
+  min-width: 1280px;
+}
+
 body {
   background-image: url('../src/assets/patterns/cork-board.png');
   font-family: 'Roboto', sans-serif;
+}
+
+.wrapper {
+  margin-bottom: 195px;
 }
 
 .justify {

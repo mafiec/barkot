@@ -27,7 +27,7 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 function App() {
   return (
     <Router>
-      <div>
+      <div className='wrapper'>
         <Header />
         <Navbar />
         <Card>
@@ -50,8 +50,8 @@ function App() {
           <Route path='/barkot/childrens-stories/tamru' component={Tamru} />
           <Route path='/barkot/childrens-stories/tarekegn' component={Tarekegn} />
         </Card>
-        <Footer />
       </div>
+      <Footer />
     </Router>
   );
 }

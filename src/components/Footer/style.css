@@ -1,4 +1,10 @@
 footer {
+    position: absolute;
+    bottom: 0;
+    box-sizing: border-box;
+    height: 180px;
+    width: 100%;
+    min-width: 1280px;
     background: #2e1204;
     color: #fff;
     padding: 1px 30px;
