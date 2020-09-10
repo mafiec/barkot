@@ -1,7 +1,7 @@
 {
   "name": "barkot",
   "version": "0.1.0",
-  "homepage": "https://mafiec.github.io/barkot/",
+  "homepage": "https://maksymilianfiec.github.io/barkot/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",

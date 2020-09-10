@@ -24,7 +24,7 @@ const OurMission = (props) => {
                     <p>Chcemy im pomóc na dłuższą metę, dać perspektywę na przyszłość, możliwość edukacji, wysłać do szkoły, wspierać aż do momentu, gdy ich rodziny albo one same będą w stanie się usamodzielnić. Planujemy stworzyć ośrodek resocjalizacyjny, w którym pod okiem specjalistów dzieci będą uczyć się żyć na nowo, w społeczeństwie. Na początku chcemy się skupić na pomocy dzieciom w okresie wczesnoszkolnym.</p>
                 </div>
             </div>
-            <p className='link'>Poczytaj więcej o zadaniach ośrodka: <NavLink to='/project'>PROJEKT</NavLink></p>
+            <p className='link'>Poczytaj więcej o zadaniach ośrodka: <NavLink to='/barkot/project'>PROJEKT</NavLink></p>
         </div>
     );
 }

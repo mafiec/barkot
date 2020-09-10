@@ -31,24 +31,24 @@ function App() {
         <Header />
         <Navbar />
         <Card>
-          <Route path='/' exact component={Home} />
-          <Route path='/about-us' component={AboutUs} />
-          <Route path='/our-mission' component={OurMission} />
-          <Route path='/project' component={Project} />
-          <Route path='/childrens-stories' component={ChildrensStories} />
-          <Route path='/contact' component={Contact} />
-          <Route path='/voluntary' component={Voluntary} />
-          <Route path='/donate' component={Donate} />
-          <Route path='/adoption' component={Adoption} />
-          <Route path='/missionary-reports' component={MissionaryReports} />
-          <Route path='/childrens-stories/abraham' component={Abraham} />
-          <Route path='/childrens-stories/binyam' component={Binyam} />
-          <Route path='/childrens-stories/erdachew' component={Erdachew} />
-          <Route path='/childrens-stories/estifanos' component={Estifanos} />
-          <Route path='/childrens-stories/habtamu' component={Habtamu} />
-          <Route path='/childrens-stories/solomon' component={Solomon} />
-          <Route path='/childrens-stories/tamru' component={Tamru} />
-          <Route path='/childrens-stories/tarekegn' component={Tarekegn} />
+          <Route path='/barkot/' exact component={Home} />
+          <Route path='/barkot/about-us' component={AboutUs} />
+          <Route path='/barkot/our-mission' component={OurMission} />
+          <Route path='/barkot/project' component={Project} />
+          <Route path='/barkot/childrens-stories' component={ChildrensStories} />
+          <Route path='/barkot/contact' component={Contact} />
+          <Route path='/barkot/voluntary' component={Voluntary} />
+          <Route path='/barkot/donate' component={Donate} />
+          <Route path='/barkot/adoption' component={Adoption} />
+          <Route path='/barkot/missionary-reports' component={MissionaryReports} />
+          <Route path='/barkot/childrens-stories/abraham' component={Abraham} />
+          <Route path='/barkot/childrens-stories/binyam' component={Binyam} />
+          <Route path='/barkot/childrens-stories/erdachew' component={Erdachew} />
+          <Route path='/barkot/childrens-stories/estifanos' component={Estifanos} />
+          <Route path='/barkot/childrens-stories/habtamu' component={Habtamu} />
+          <Route path='/barkot/childrens-stories/solomon' component={Solomon} />
+          <Route path='/barkot/childrens-stories/tamru' component={Tamru} />
+          <Route path='/barkot/childrens-stories/tarekegn' component={Tarekegn} />
         </Card>
         <Footer />
       </div>

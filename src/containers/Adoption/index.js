@@ -68,7 +68,7 @@ const Adoption = (props) => {
                 </tbody>
                 </table>
             </div>
-            <p className='link'>Przejdź do zakładki <NavLink to='/childrens-stories'>HISTORIE DZIECI</NavLink>, aby dowiedzieć się więcej o naszych podopiecznych.</p>
+            <p className='link'>Przejdź do zakładki <NavLink to='/barkot/childrens-stories'>HISTORIE DZIECI</NavLink>, aby dowiedzieć się więcej o naszych podopiecznych.</p>
             <p>Każdy darczyńca będzie otrzymywał na maila, opis bieżącej sytuacji chłopca. Może również zadawać dodatkowe pytania. Ma prawo do korespondencji z nim za naszym pośrednictwem min. raz na miesiąc póki przebywa w ośrodku lub raz na pół roku po jego reintegracji.</p>
             <p>Aby adoptować chłopca, musisz zadeklarować chęć comiesięcznego wsparcia finansowego w wysokości 50, 100 lub 150 zł minimum przez rok. Pełne wsparcie wynosi 150 zł/mies. Jeśli nie stać Cię na taką kwotę, będziemy szukali dodatkowego wsparcia u innych osób.</p>
             <p>Jeśli z jakichś przyczyn darczyńca nie będzie chciał kontynuować wsparcia, oczywiście może je zaprzestać informując nas o tym. W przypadku, gdy resocjalizacja się nie uda (z czym niestety trzeba się liczyć) natychmiast poinformujemy jego darczyńcę, który może wstrzymać swoje darowizny lub wybrać inne dziecko.</p>
