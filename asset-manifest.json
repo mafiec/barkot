@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/barkot/static/css/main.f1af9f00.chunk.css",
+    "main.css": "/barkot/static/css/main.d429e477.chunk.css",
     "main.js": "/barkot/static/js/main.974a828c.chunk.js",
     "main.js.map": "/barkot/static/js/main.974a828c.chunk.js.map",
     "runtime-main.js": "/barkot/static/js/runtime-main.51b41a00.js",
@@ -8,9 +8,9 @@
     "static/js/2.5209d4a7.chunk.js": "/barkot/static/js/2.5209d4a7.chunk.js",
     "static/js/2.5209d4a7.chunk.js.map": "/barkot/static/js/2.5209d4a7.chunk.js.map",
     "index.html": "/barkot/index.html",
-    "precache-manifest.8e0e60c42548aecba731c8694ac993b7.js": "/barkot/precache-manifest.8e0e60c42548aecba731c8694ac993b7.js",
+    "precache-manifest.656a22a8652a07b9adb82fdf7f210e6c.js": "/barkot/precache-manifest.656a22a8652a07b9adb82fdf7f210e6c.js",
     "service-worker.js": "/barkot/service-worker.js",
-    "static/css/main.f1af9f00.chunk.css.map": "/barkot/static/css/main.f1af9f00.chunk.css.map",
+    "static/css/main.d429e477.chunk.css.map": "/barkot/static/css/main.d429e477.chunk.css.map",
     "static/js/2.5209d4a7.chunk.js.LICENSE.txt": "/barkot/static/js/2.5209d4a7.chunk.js.LICENSE.txt",
     "static/media/abraham0.jpg": "/barkot/static/media/abraham0.d8e9b704.jpg",
     "static/media/binyam0.jpg": "/barkot/static/media/binyam0.048bb42e.jpg",
@@ -52,7 +52,7 @@
   "entrypoints": [
     "static/js/runtime-main.51b41a00.js",
     "static/js/2.5209d4a7.chunk.js",
-    "static/css/main.f1af9f00.chunk.css",
+    "static/css/main.d429e477.chunk.css",
     "static/js/main.974a828c.chunk.js"
   ]
 }
