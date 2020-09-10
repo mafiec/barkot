@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/barkot/static/css/main.f1af9f00.chunk.css",
-    "main.js": "/barkot/static/js/main.ec6d7233.chunk.js",
-    "main.js.map": "/barkot/static/js/main.ec6d7233.chunk.js.map",
+    "main.js": "/barkot/static/js/main.974a828c.chunk.js",
+    "main.js.map": "/barkot/static/js/main.974a828c.chunk.js.map",
     "runtime-main.js": "/barkot/static/js/runtime-main.51b41a00.js",
     "runtime-main.js.map": "/barkot/static/js/runtime-main.51b41a00.js.map",
     "static/js/2.5209d4a7.chunk.js": "/barkot/static/js/2.5209d4a7.chunk.js",
     "static/js/2.5209d4a7.chunk.js.map": "/barkot/static/js/2.5209d4a7.chunk.js.map",
     "index.html": "/barkot/index.html",
-    "precache-manifest.df7159dd07066a9f6bc7cf783869ce85.js": "/barkot/precache-manifest.df7159dd07066a9f6bc7cf783869ce85.js",
+    "precache-manifest.8e0e60c42548aecba731c8694ac993b7.js": "/barkot/precache-manifest.8e0e60c42548aecba731c8694ac993b7.js",
     "service-worker.js": "/barkot/service-worker.js",
     "static/css/main.f1af9f00.chunk.css.map": "/barkot/static/css/main.f1af9f00.chunk.css.map",
     "static/js/2.5209d4a7.chunk.js.LICENSE.txt": "/barkot/static/js/2.5209d4a7.chunk.js.LICENSE.txt",
@@ -53,6 +53,6 @@
     "static/js/runtime-main.51b41a00.js",
     "static/js/2.5209d4a7.chunk.js",
     "static/css/main.f1af9f00.chunk.css",
-    "static/js/main.ec6d7233.chunk.js"
+    "static/js/main.974a828c.chunk.js"
   ]
 }
